@@ -1,0 +1,11 @@
+ID,Name,Age,Email,JoinDate,Salary,Department
+1.0,Alice,25,alice@example.com,2021-01-15,50000,HR
+2.0,Bob,30,bob_at_example.com,2021/02/20,60000,IT
+3.0,Charlie,,charlie@example.com,15-03-2021,55000,Finance
+4.0,david,22,david@example,2021-04-25,not available,it
+5.0,Eve,29,eve@example.com,2021-05-30,65000,Finance
+5.0,Eve,29,eve@example.com,2021-05-30,65000,Finance
+,Frank,40,frank@,2021-13-01,70000,HR
+8.0,  Grace,35,grace@example.com ,20210615,,Sales
+9.0,Heidi,unknown,,,72000,
+10.0,Ivan,28,ivan@example.com,2021-09-10,68000,IT
